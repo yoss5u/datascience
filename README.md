@@ -7,3 +7,6 @@ The page that will help us to get the information is <https://www.adamchoi.co.uk
 This script is automated to retrieve all the matches. You can choose the league and the season. After that, the data will be cleaned up and exported as a CSV file with additional information.
 
 __The script is written in Python 3.10.12 and is executed using conda on WSL2.__
+
+**It could also help you**
+> [Run Selenium and Chrome on WSL2 using Python and Selenium webdrivera](https://cloudbytes.dev/snippets/run-selenium-and-chrome-on-wsl2)
